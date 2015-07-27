@@ -1,4 +1,4 @@
-## :man_with_turbant: pirate player proyect
+## :man_with_turban: pirate player proyect
 
 but this time , using **electron** :metal: and **react** :rocket:
 
